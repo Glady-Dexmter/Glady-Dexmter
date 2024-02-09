@@ -2,17 +2,17 @@
 <h1 align="center">I'm freelancer System Artificial intelligence</h1>
 <h3 align="center">I have a basic knowledge of artificial intelligence.</h3>
 
-<p align="left"> <a href="https://twitter.com/azizcan04045416" target="blank"><img src="https://img.shields.io/twitter/follow/azizcan04045416?logo=twitter&style=for-the-badge" alt="azizcan04045416" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Glady_Dexmter" target="blank"><img src="https://img.shields.io/twitter/follow/azizcan04045416?logo=twitter&style=for-the-badge" alt="azizcan04045416" /></a> </p>
 
 - 💬 Ask me about **I have a basic knowledge of artificial intelligence.**
 
-- 📫 How to reach me **mehmetaziz004700@gmail.com**
+- 📫 How to reach me **glaydmr666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/azizcan04045416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizcan04045416" height="30" width="40" /></a>
-<a href="https://medium.com/@azizcan04045416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azizcan04045416" height="30" width="40" /></a>
-<a href="https://discord.gg/mehmetaziz004700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehmetaziz004700" height="30" width="40" /></a>
+<a href="https://twitter.com/Glady_Dexmter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizcan04045416" height="30" width="40" /></a>
+<a href="https://medium.com/@glaydmr666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azizcan04045416" height="30" width="40" /></a>
+<a href="https://discord.gg/glady_dexmter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehmetaziz004700" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
