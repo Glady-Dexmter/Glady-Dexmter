@@ -2,7 +2,7 @@
 <h1 align="center">I'm freelancer System Artificial intelligence</h1>
 <h3 align="center">I have a basic knowledge of artificial intelligence.</h3>
 
-<p align="left"> <a href="https://twitter.com/Glady_Dexmter" target="blank"><img src="https://img.shields.io/twitter/follow/Glady_Dexmter?logo=twitter&style=for-the-badge" alt="Glady_Dexmter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Glady_Dexmter" target="blank"><img src="https://img.shields.io/twitter/follow/Glady_Dexmter?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **I have a basic knowledge of artificial intelligence.**
 
