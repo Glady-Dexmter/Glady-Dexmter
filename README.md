@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Glady_Dexmter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizcan04045416" height="30" width="40" /></a>
-<a href="https://medium.com/@glaydmr666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azizcan04045416" height="30" width="40" /></a>
-<a href="https://discord.gg/glady_dexmter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehmetaziz004700" height="30" width="40" /></a>
+<a href="https://twitter.com/Glady_Dexmter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Glady_Dexmter" height="30" width="40" /></a>
+<a href="https://medium.com/@glaydmr666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Glady_Dexmter" height="30" width="40" /></a>
+<a href="https://discord.gg/glady_dexmter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Glady_Dexmter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
